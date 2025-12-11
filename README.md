@@ -19,3 +19,5 @@ it is a project i made for hackclub blueprint
 # Pictures
 ## pcb
 <img width="1083" height="600" alt="Image" src="https://github.com/user-attachments/assets/4e50f1c7-7bd7-4c5e-893e-bcda39cd1878" />
+
+<img width="1254" height="808" alt="Image" src="https://github.com/user-attachments/assets/4d810c98-bd62-4b5c-84ea-480d678322a6" />
