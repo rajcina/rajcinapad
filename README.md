@@ -18,4 +18,4 @@ it is a project i made for hackclub blueprint
 
 # Pictures
 ## pcb
-https://github.com/rajcina/rajcinapad/blob/main/pictures/pcb.png?raw=true)
+<img width="1083" height="600" alt="Image" src="https://github.com/user-attachments/assets/4e50f1c7-7bd7-4c5e-893e-bcda39cd1878" />
