@@ -22,3 +22,4 @@ it is a project i made for hackclub blueprint
 
 <img width="1254" height="808" alt="Image" src="https://github.com/user-attachments/assets/4d810c98-bd62-4b5c-84ea-480d678322a6" />
 ## cad
+placeholdertext
