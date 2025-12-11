@@ -15,3 +15,7 @@ it is a project i made for hackclub blueprint
 - 1x XIAO RP2040
 - 1x Case (2 parts)
 - 4x M3x16mm screws
+
+# Pictures
+## pcb
+[the pcb](pcb.png)
