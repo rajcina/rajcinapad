@@ -23,4 +23,5 @@ it is a project i made for hackclub blueprint
 <img width="1254" height="808" alt="Image" src="https://github.com/user-attachments/assets/4d810c98-bd62-4b5c-84ea-480d678322a6" />
 
 ## case
-- placeholdertext
+
+<img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/c5cf4a2c-0fac-4dde-b3c4-e2c3c841a2c4" />
