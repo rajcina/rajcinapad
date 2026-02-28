@@ -1,0 +1,45 @@
+{
+    "keyboard_name": "rajcinapad",
+    "manufacturer": "You",
+    "maintainer": "you",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP27", "GP28", "GP29", "GP6", "GP7", "GP0", "GP4"]
+        ]
+    },
+    "encoder": {
+        "rotary": [
+            { "pin_a": "GP2", "pin_b": "GP1", "resolution": 4 }
+        ]
+    },
+    "rgblight": {
+        "led_count": 1,
+        "pin": "GP26",
+        "driver": "ws2812"
+    },
+    "features": {
+        "encoder": true,
+        "encoder_map": true,
+        "rgblight": true
+    },
+    "layouts": {
+        "LAYOUT_directpins": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 1, "y": 0 },
+                { "matrix": [0, 2], "x": 2, "y": 0 },
+                { "matrix": [0, 3], "x": 0, "y": 1 },
+                { "matrix": [0, 4], "x": 1, "y": 1 },
+                { "matrix": [0, 5], "x": 2, "y": 1 },
+                { "matrix": [0, 6], "x": 3, "y": 1 }
+            ]
+        }
+    }
+}
